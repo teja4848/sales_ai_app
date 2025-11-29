@@ -188,7 +188,7 @@ requirements.txt
 🌐 Live Demo  
 See the AI-Powered Sales Query Assistant in action!
 
-👉 Try the live Streamlit app here: **[Live Demo Link]**  
+👉 Try the live Streamlit app here: **[Live Demo Link](https://teja4848-sales-ai-app-streamlit-app-yduno1.streamlit.app/)**  
 
 ---
 
